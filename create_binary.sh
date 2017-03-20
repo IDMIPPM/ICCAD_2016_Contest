@@ -1,4 +1,5 @@
 hg clone https://bitbucket.org/alanmi/abc
+# git reset --hard 859b3611cde435ffed9c90d55750e7dd0665870c
 cp fim/*.c abc/src/base/main/
 cp fim/*.h abc/src/base/main/
 rm fim/main.o
