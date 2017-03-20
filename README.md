@@ -1,5 +1,9 @@
 # ICCAD_2016_Contest
-Solution for ICCAD 2016 Contest
+Solution for ICCAD 2016 Contest.
+
+# Dependencies
+It requires "ABC: System for Sequential Logic Synthesis and Formal Verification" which is cloned from repository:
+https://bitbucket.org/alanmi/abc/
 
 # Linux Installation
 1. Clone repository
